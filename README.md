@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Bases de Datos I - Proyecto de Estudio
 Este espacio propone presentar la información para organizar el desarrollo del Proyecto de Estudio de la asignatura Bases de Datos I (FaCENA - UNNE)
 
@@ -22,3 +23,7 @@ Este borrador fue elaborado usando https://stackedit.io/app#
     ->nombre_proyecto.md (documento principal estructurado por capítulos)
     
 **Estructura del documento principal:**
+=======
+# proyecto_BDI_grupo2
+Proyecto Integrador BDI 2024 - grupo 2
+>>>>>>> d86bdff032dbc481b1516ca8c3f4e17a2e780956
