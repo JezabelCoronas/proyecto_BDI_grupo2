@@ -1,4 +1,4 @@
-# Proyecto de Estudio!
+# Proyecto de Estudio
     
 **Estructura del documento principal:**
 
